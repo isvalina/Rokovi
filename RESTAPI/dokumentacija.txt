@@ -1,0 +1,16 @@
+otvoriti terminal u VSC i izvesti naredbu: composer update
+Kreirati bazu: skripta.sql
+
+NAREDBE U PUTTY-u:
+    1. cd www
+    2. composer install
+    3. mysql -uisvalina_20_20 -p / CRTL C za izlazak
+    4. show databases; / show tables; // za provjeru
+    5. create database ... ; // ukoliko je potrebno, ako ne preskoči
+    6. use database ... ;
+    7. create table ... ;
+    8. insert into ... ;
+
+* nakon svakog prebacivanja na server composer update, samo nakon prvog composer install
+** FILEZILLA: sftp://oziz.ffos.hr
+*** ADVANCED REST CLIENT
